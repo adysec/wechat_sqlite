@@ -1,0 +1,11 @@
+altgraph==0.17.4
+packaging==23.2
+pefile==2023.2.7
+psutil==5.9.6
+pycryptodome==3.19.0
+pyinstaller==6.1.0
+pyinstaller-hooks-contrib==2023.10
+Pymem==1.13.0
+pywin32==306
+pywin32-ctypes==0.2.2
+setuptools==68.2.2
