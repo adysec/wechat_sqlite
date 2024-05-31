@@ -10,6 +10,8 @@ pip install -r requirements.txt
 
 ```bash
 python 1-search_wecaht_key.py
+# OR
+wechat-dump-rs.exe
 ```
 
 复制MSG0.db到当前目录，通过key解密
