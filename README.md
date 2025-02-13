@@ -3,6 +3,12 @@
 <a href="https://github.com/adysec/wechat_sqlite/network/members"><img alt="GitHub forks" src="https://img.shields.io/github/forks/adysec/wechat_sqlite?color=orange&style=flat-square"></a>
 <a href="https://github.com/adysec/wechat_sqlite/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/adysec/wechat_sqlite?color=red&style=flat-square"></a>
 
+## 说明
+
+目前有更好的项目`https://github.com/0xlane/wechat-dump-rs`，原先该项目无获取key功能和源码，仅支持下载可执行文件，因此建立了本仓库，现在对方提供了`wechat-dump-rs.exe`源码，并支持4.0版本微信
+
+## 使用方法
+
 安装库
 
 ```bash
